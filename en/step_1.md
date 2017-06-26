@@ -10,4 +10,4 @@ To open up Scratch 2 on the Raspberry Pi:
 
 - Your program should open in a few seconds.
 
-	![open scratch animation(images/open-scratch.gif)
+![open scratch animation(images/open-scratch.gif)
