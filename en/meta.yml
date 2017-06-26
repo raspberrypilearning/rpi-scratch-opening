@@ -1,12 +1,12 @@
-title: rpi-scratch-opening
+title: Opening Scratch 2 on the Raspberry Pi
 hero_image: images/banner.png
-description: rpi-scratch-opening description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: How to open Scratch 2.0 on the Raspberry Pi
+original_url: 
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
-ingredient: false
+ingredient: true
 interests: ""
-technologies: "python"
+technologies: "scratch"
 steps:
-  - title: Step one
+  - title: Opening Scratch 2
