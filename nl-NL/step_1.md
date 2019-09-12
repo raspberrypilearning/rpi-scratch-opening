@@ -1,10 +1,10 @@
-Om Scratch 2 op de Raspberry Pi te openen:
+To open up Scratch 3 on the Raspberry Pi:
 
 - Klik op het menupictogram in de linkerbovenhoek van het scherm.
 
 - Beweeg je muisaanwijzer over **Programmeren**.
 
-- Selecteer **Scratch 2** in het menu dat verschijnt.
+- Select **Scratch 3** from the menu that appears.
     
     ![open scratch](images/open-scratch.png)
 
